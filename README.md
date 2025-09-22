@@ -5,9 +5,8 @@ Desenvolver uma aplicação para reconhecimento de faces.
 
 ## Instruções de Execução
 1. Instale dependências: `pip install opencv-contrib-python numpy`.
-2. Crie uma pasta chamada 'data' e coloque na raiz.
-3. Rode `python train.py` para capturar imagens e treinar.
-4. Rode `python recognize.py` para reconhecimento em tempo real.
+2. Rode `python train.py` para capturar imagens e treinar.
+3. Rode `python recognize.py` para reconhecimento em tempo real.
 
 ## Dependências
 - Python 3.8+
