@@ -29,10 +29,10 @@ Dados faciais são sensíveis e envolvem privacidade. Esta aplicação armazena 
 Limitações: Sensível a iluminação/ângulos, não lida com múltiplos usuários bem. Próximos: Integrar deep learning (ex: FaceNet), adicionar landmarks com dlib, melhorar ética com criptografia de dados.
 
 ## Integrantes
--Anna Yagyu 〡 Rm 550360 
--Breno Silva 〡 Rm 99275 
--Danilo Urze 〡 Rm 99465 
--Gabriel Pacheco 〡Rm550191
+- Anna Yagyu | Rm 550360 
+- Breno Silva 〡 Rm 99275 
+- Danilo Urze 〡 Rm 99465 
+- Gabriel Pacheco 〡Rm550191
 
 ## Vídeo
 https://youtu.be/dbOOuLj6vjQ
