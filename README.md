@@ -5,7 +5,7 @@ Desenvolver uma aplicação para reconhecimento de faces.
 
 ## Instruções de Execução
 1. Instale dependências: `pip install opencv-contrib-python numpy`.
-2. Baixe `haarcascade_frontalface_default.xml` e coloque na raiz.
+2. Crie uma pasta chamada 'data' e coloque na raiz.
 3. Rode `python train.py` para capturar imagens e treinar.
 4. Rode `python recognize.py` para reconhecimento em tempo real.
 
@@ -25,3 +25,15 @@ Desenvolver uma aplicação para reconhecimento de faces.
 
 ## Nota Ética sobre Uso de Dados Faciais
 Dados faciais são sensíveis e envolvem privacidade. Esta aplicação armazena imagens localmente, mas em usos reais: obtenha consentimento explícito, evite armazenamento desnecessário, não compartilhe dados sem permissão e considere regulamentações como LGPD/GDPR. Limitações incluem viés em diversidade étnica; teste com variados grupos para equidade.
+
+## Limitações e Próximos Passos
+Limitações: Sensível a iluminação/ângulos, não lida com múltiplos usuários bem. Próximos: Integrar deep learning (ex: FaceNet), adicionar landmarks com dlib, melhorar ética com criptografia de dados.
+
+## Integrantes
+Anna Yagyu 〡 Rm 550360 
+Breno Silva 〡 Rm 99275 
+Danilo Urze 〡 Rm 99465 
+Gabriel Pacheco 〡Rm550191
+
+## Vídeo
+https://youtu.be/dbOOuLj6vjQ
